@@ -1,3 +1,6 @@
 [submodule "vue/vue-skeleton"]
 	path = vue/vue-skeleton
 	url = git@github.com:hjeti/vue-skeleton.git
+[submodule "vue/vue-realworld-example-app"]
+	path = vue/vue-realworld-example-app
+	url = git@github.com:gothinkster/vue-realworld-example-app.git
