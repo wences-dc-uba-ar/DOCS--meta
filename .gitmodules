@@ -7,3 +7,9 @@
 [submodule "vue/docker-vuejs"]
 	path = vue/docker-vuejs
 	url = git@github.com:zimdo/docker-vuejs.git
+[submodule "vue/koa-vue-notes-web"]
+	path = vue/koa-vue-notes-web
+	url = git@github.com:johndatserakis/koa-vue-notes-web.git
+[submodule "vue/koa-vue-notes-api"]
+	path = vue/koa-vue-notes-api
+	url = git@github.com:johndatserakis/koa-vue-notes-api.git
