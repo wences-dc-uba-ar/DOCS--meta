@@ -16,3 +16,15 @@
 [submodule "tools/gitwatch"]
 	path = tools/gitwatch
 	url = git@github.com:gitwatch/gitwatch.git
+[submodule "php/php-crud-api"]
+	path = php/php-crud-api
+	url = git@github.com:mevdschee/php-crud-api.git
+[submodule "php/php-crud-ui"]
+	path = php/php-crud-ui
+	url = git@github.com:mevdschee/php-crud-ui.git
+[submodule "php/php-api-auth"]
+	path = php/php-api-auth
+	url = git@github.com:mevdschee/php-api-auth.git
+[submodule "node/js-crud-api"]
+	path = node/js-crud-api
+	url = git@github.com:mevdschee/js-crud-api.git
