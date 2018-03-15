@@ -28,3 +28,33 @@
 [submodule "node/js-crud-api"]
 	path = node/js-crud-api
 	url = git@github.com:mevdschee/js-crud-api.git
+[submodule "tools/strapdown"]
+	path = tools/strapdown
+	url = git@github.com:arturadib/strapdown.git
+[submodule "tools/flickr-uploader"]
+	path = tools/flickr-uploader
+	url = git@github.com:trickortweak/flickr-uploader.git
+[submodule "info/free-programming-books"]
+	path = info/free-programming-books
+	url = git@github.com:EbookFoundation/free-programming-books.git
+[submodule "tools/loltinder"]
+	path = tools/loltinder
+	url = git@github.com:deftx/loltinder.git
+[submodule "php/phreeze"]
+	path = php/phreeze
+	url = git@github.com:jasonhinkle/phreeze.git
+[submodule "node/epilogue"]
+	path = node/epilogue
+	url = git@github.com:dchester/epilogue.git
+[submodule "node/megaboilerplate"]
+	path = node/megaboilerplate
+	url = git@github.com:sahat/megaboilerplate.git
+[submodule "node/myRESTApp"]
+	path = node/myRESTApp
+	url = git@github.com:arvindr21/myRESTApp.git
+[submodule "node/sequelize-restful"]
+	path = node/sequelize-restful
+	url = git@github.com:sequelize/sequelize-restful.git
+[submodule "tools/magicplaylist"]
+	path = tools/magicplaylist
+	url = git@github.com:loverajoel/magicplaylist.git
