@@ -13,3 +13,6 @@
 [submodule "vue/koa-vue-notes-api"]
 	path = vue/koa-vue-notes-api
 	url = git@github.com:johndatserakis/koa-vue-notes-api.git
+[submodule "tools/gitwatch"]
+	path = tools/gitwatch
+	url = git@github.com:gitwatch/gitwatch.git
