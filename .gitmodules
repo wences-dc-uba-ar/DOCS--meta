@@ -4,3 +4,6 @@
 [submodule "vue/vue-realworld-example-app"]
 	path = vue/vue-realworld-example-app
 	url = git@github.com:gothinkster/vue-realworld-example-app.git
+[submodule "vue/docker-vuejs"]
+	path = vue/docker-vuejs
+	url = git@github.com:zimdo/docker-vuejs.git
