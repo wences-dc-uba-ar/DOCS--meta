@@ -58,3 +58,7 @@
 [submodule "tools/magicplaylist"]
 	path = tools/magicplaylist
 	url = git@github.com:loverajoel/magicplaylist.git
+[submodule "apps/bookBrowser.git"]
+	path = apps/bookBrowser.git
+	url = git@github.com:geek1011/BookBrowser.git
+	branch = master
